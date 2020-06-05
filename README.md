@@ -8,7 +8,7 @@
 
 ## 效果图
 
-<img src="./public/image/效果图1.png" align="left" >
+[Image text](https://github.com/ReRuol/Drag-view/blob/master/public/image/%E6%95%88%E6%9E%9C%E5%9B%BE1.png)
 <img src="./public/image/效果图3.png" align="left" >
 <img src="./public/image/效果图2.png" align="left" >
 <br><br>
